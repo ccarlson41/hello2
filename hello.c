@@ -9,7 +9,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("The one and only: Cam Carlson!!!!!!!!\n");
+  printf("Cam Carlson!\n");
+  printf("Comp Sci!\n");
 
   return 0;
 }
